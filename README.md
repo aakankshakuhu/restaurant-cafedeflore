@@ -4,13 +4,8 @@ This project is a simple website for a café named "Café de Flore". It is built
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Technologies](#technologies)
-
-- ## Demo
-
-You can view the demo of the website [here](https://your-demo-link.com).
 
 ## Features
 
